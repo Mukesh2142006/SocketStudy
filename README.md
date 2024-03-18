@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+### Name: Karthikeyan R
+### Reg.NO: 212222240046
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -80,8 +81,6 @@ while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
 ```
-## Name: Karthikeyan R
-## Reg.NO: 212222240046
 ## OUTPUT
  ### CLIENT:
  ![TODAY1](https://github.com/Yuvaranithulasingam/SocketStudy/assets/121418522/55f2bd97-cb02-43ca-aec4-05d802fa431a)
