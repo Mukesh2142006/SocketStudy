@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-### Name: Karthikeyan R
-### Reg.NO: 212222240046
+### Name: MUKESH
+### Reg.NO: 212223230128
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
